@@ -10,11 +10,32 @@ Introduction
 =======================
 On the 93rd day after my F1 VISA renewal application is under administrative processing. I decided to create this project to crawl the data on the checkee.info website. I am waiting for my VISA to get processed for over three months. Life is so miserable while waiting. Hopefully this situation is going to get better in the future.
 
-In this beginning, I decided to use python class to define each application. However I end up use list of list to contain all the data. This is simply because I think it is more efficient for simple application like this. I can operate the list freely without concenring too much about stack overflow.
+In the beginning, I decided to use python class to define each application. However I end up use list of list to contain all the data. This is simply because I think it is more efficient for simple application like this. I can operate the list freely without concenring too much about stack overflow.
 
 The code is written in python 3 using the Jupyter of ANACONDA. (Easy to setup, all the libraries are loaded with the original ANACONDA)
 
 Simply open the file  `CheckeeCrawl.ipynb <https://github.com/bwang40/CheckeeInfoCrawl/blob/master/CheckeeCrawl.ipynb>`_ with jupyter 
+
+Some Example Output
+=======================
+.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/WeChat%20Image_20190312050230.png
+   :scale: 25
+   
+.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/checkAVGbymonth.PNG
+   :scale: 25
+   
+.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consular.PNG
+   :scale: 25
+   
+.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/visatype.PNG
+   :scale: 25
+   
+.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularrate.PNG
+   :scale: 25
+
+Disclaimer: 
+=======================
+This is only a project for acquiring data for desperate student under administrative processing like me to review. This is not for profit, but if you need me to withdraw it from github, Please contact me @ bwang40@hwak.iit.edu. Thank you so much.
 
 Note: 
 =======================
