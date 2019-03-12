@@ -25,10 +25,10 @@ Some Example Output
    :scale: 25
    
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consular.PNG
-   :scale: 25
+   :scale: 10
    
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/visatype.PNG
-   :scale: 25
+   :scale: 10
    
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularrate.PNG
    :scale: 25
