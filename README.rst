@@ -10,7 +10,7 @@ Introduction
 =======================
 On the 93rd day after my F1 VISA renewal application is under administrative processing. I decided to create this project to crawl the data on the checkee.info website. I am waiting for my VISA to get processed for over three months. Life is so miserable while waiting. Hopefully this situation is going to get better in the future.
 
-In the beginning, I decided to use python class to define each application. However I end up use list of list to contain all the data. This is simply because I think it is more efficient for simple application like this. I can operate the list freely without concenring too much about stack overflow.
+In the beginning, I decided to use python class to define each application. However I end up use list of list to contain all the data. This is simply because I think it is more efficient for simple application like this. I can operate the list freely without concenring too much about memory issue.
 
 The code is written in python 3 using the Jupyter of ANACONDA. (Easy to setup, all the libraries are loaded with the original ANACONDA)
 
