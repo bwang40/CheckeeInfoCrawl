@@ -35,7 +35,7 @@ Some Example Output
 
 Disclaimer: 
 =======================
-This is only a project for acquiring data for desperate student under administrative processing like me to review. This is not for profit, but if you need me to withdraw it from github, Please contact me @ bwang40@hwak.iit.edu. Thank you so much.
+This is only a project for acquiring data for desperate student under administrative processing like me to review. This is not for profit, but if you need me to withdraw it from github, Please contact me @ bwang40@hawk.iit.edu. Thank you so much.
 
 Note: 
 =======================
