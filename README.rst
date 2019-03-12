@@ -12,6 +12,10 @@ On the 93rd day after my F1 VISA renewal application is under administrative pro
 
 In this beginning, I decided to use python class to define each application. However I end up use list of list to contain all the data. This is simply because I think it is more efficient for simple application like this. I can operate the list freely without concenring too much about stack overflow.
 
+The code is written in python 3 using the Jupyter of ANACONDA. (Easy to setup, all the libraries are loaded with the original ANACONDA)
+
+Simply open the file  `CheckeeCrawl.ipynb <https://github.com/bwang40/CheckeeInfoCrawl/blob/master/CheckeeCrawl.ipynb>`_ with jupyter 
+
 Note: 
 =======================
 Warning: the code is written in python3 within less than 6 hours (Have to learn how to crawl information online first), it is incomplete and difficult to read. Use at your own risk. It get the work down for me. If you need to download the data I created, it is attached in Final03-11-2019_16-29.txt. The data is loaded with data using pickle (python lib), you can restore it into python list using the following code
