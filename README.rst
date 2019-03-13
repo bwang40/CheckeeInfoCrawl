@@ -39,7 +39,7 @@ This is only a project for acquiring data for desperate student under administra
 
 Note: 
 =======================
-Warning: the code is written in python3 within less than 6 hours (Have to learn how to crawl information online first), it is incomplete and difficult to read. Use at your own risk. It get the work down for me. If you need to download the data I created, it is attached in Final03-11-2019_16-29.txt. The data is loaded with data using pickle (python lib), you can restore it into python list using the following code
+Warning: the code is written in python3 within less than 6 hours (Have to learn how to crawl information online first), it is incomplete and difficult to read. Use at your own risk. It get the work down for me. If you need to download the data I created, it is attached in `Final03-11-2019_16-29.txt <https://github.com/bwang40/CheckeeInfoCrawl/blob/master/Final03-11-2019_16-29.txt>`_. The file is loaded with data using pickle (python lib), you can restore it into python list using the following code
 ::
    with open("Final03-11-2019_16-29.txt", 'rb') as fp:
        APPLICATIONS_OF_ALL=pickle.load(fp)
