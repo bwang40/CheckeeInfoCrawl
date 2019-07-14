@@ -16,7 +16,7 @@ The code is written in python 3 using the Jupyter of ANACONDA. (Easy to setup, a
 
 Simply open the file  `CheckeeCrawl.ipynb <https://github.com/bwang40/CheckeeInfoCrawl/blob/master/CheckeeCrawl.ipynb>`_ with jupyter 
 
-this
+Driven by curiosity, I run the program again to view the status of the checked cases for visa. I found that we are not experiencing the worst case scenario. Indeed that the checked cases and long check cases are increased over 201912-201902. However compare to some other times, it is still a very small peak on the graph. 
 
 Some Example Output
 =======================
