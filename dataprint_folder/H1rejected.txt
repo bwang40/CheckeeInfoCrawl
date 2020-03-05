@@ -7,3 +7,19 @@ Case ID    : liondannyVISA Typ   : H1 NewConsular   : NewDelhiMajor in   : CS
 Case ID    : pankajojainVISA Typ   : H1 NewConsular   : NewDelhiMajor in   : ME Computer ScienceTime : 2011-7-12 weekday 2 to 2011-12-14 weekday 3 Length     : 155 daysStatus     : Reject--------------------------------------------
 Case ID    : py1988VISA Typ   : H1 NewConsular   : BeiJingMajor in   : N/ATime : 2014-10-31 weekday 5 to 2015-8-12 weekday 3 Length     : 285 daysStatus     : Reject****************Comment*******************Refused with no notification. Learned in two years later when interviewing again in the conculate...******************End*********************--------------------------------------------
 Case ID    : caesaromeVISA Typ   : H1 NewConsular   : BeiJingMajor in   : CSTime : 2018-4-24 weekday 2 to 2018-8-17 weekday 5 Length     : 115 daysStatus     : Reject--------------------------------------------
+Case ID    : 超越妹妹求VISA Typ   : H1 NewConsular   : BeiJingMajor in   : EETime : 2019-5-16 weekday 4 to 2019-11-3 weekday 7 Length     : 171 daysStatus     : Reject****************Comment*******************5/17面试，5/20update一次，5/31要求补材料，之后再没更新，10月底撤签，11/7上海二签******************End*********************--------------------------------------------
+Case ID    : 小冒小布和VISA Typ   : H1 NewConsular   : GuangZhouMajor in   : CSTime : 2019-9-10 weekday 2 to 2019-10-17 weekday 4 Length     : 37 daysStatus     : Reject****************Comment*******************求快点AP clear，我要回美国！！！忘记了选COS选了NTO，真是一场噩梦！！！
+
+updates：
+9.10 1st
+9.12 2nd
+9.16 3rd (周末。。https://ceac.state.gov的验证码还坏了 你能信)
+9.19 4th ******************End*********************--------------------------------------------
+Case ID    : 0232581VISA Typ   : H1 NewConsular   : BeiJingMajor in   : EETime : 2020-1-13 weekday 1 to 2020-3-4 weekday 3 Length     : 51 daysStatus     : Reject****************Comment*******************?casenum=828900" in="" is="" last="" no="" refused".="" target="_blank" title="Status shows " updated="" which="******************End*********************--------------------------------------------
+Case ID    : wafarinVISA Typ   : H1 NewConsular   : BeiJingMajor in   : N/ATime : 2020-1-21 weekday 2 to 2020-3-5 weekday 4 Length     : 44 daysStatus     : Reject****************Comment*******************Jan 21 interview
+Jan 22 update
+Mar 3 refsed
+搞什么嘛******************End*********************--------------------------------------------
+Case ID    : AA009INIVISA Typ   : H1 NewConsular   : BeiJingMajor in   : EETime : 2020-1-23 weekday 4 to 2020-3-5 weekday 4 Length     : 42 daysStatus     : Reject****************Comment*******************1/22 Case Created
+1/23 Case Updated
+VO说AP可能需要久一点时间。。。******************End*********************--------------------------------------------

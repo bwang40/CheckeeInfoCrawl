@@ -10,22 +10,29 @@ Introduction
 =======================
 On the 93rd day after my F1 VISA renewal application is under administrative processing. I decided to create this project to crawl the data on the checkee.info website. I am waiting for my VISA to get processed for over three months. Life is so miserable while waiting. Hopefully this situation is going to get better in the future.
 
-In the beginning, I decided to use python class to define each application. However I end up use list of list to contain all the data. This is simply because I think it is more efficient for simple application like this. I can operate the list freely without concenring too much about memory issue.
+In the beginning, I decided to use python class to define each application. However I end up use list of list to contain all the data. This is simply because I think it is more efficient for simple application like this. I can operate the list freely without concerning too much about memory issue.
 
 The code is written in python 3 using the Jupyter of ANACONDA. (Easy to setup, all the libraries are loaded with the original ANACONDA)
 
 Simply open the file  `CheckeeCrawl.ipynb <https://github.com/bwang40/CheckeeInfoCrawl/blob/master/CheckeeCrawl.ipynb>`_ with jupyter 
 
+update on July 2019:
+-------------------------
 Driven by curiosity, I run the program again to view the status of the checked cases for visa. I found that we are not experiencing the worst case scenario. Indeed that the checked cases and long check cases are increased over 201912-201902. However compare to some other times, it is still a very small peak on the graph. 
+
+update on March 2020:
+-------------------------
+The data shows that the checking cases has increased over the previous year.
 
 Some Example Output
 =======================
-.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/WeChat%20Image_20190312050230.png
+
+.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/longcheck.PNG
    :scale: 25
    
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/checkAVGbymonth.PNG
    :scale: 25
-   
+
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consular.PNG
    :width: 10px
    
@@ -34,6 +41,13 @@ Some Example Output
    
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularrate.PNG
    :scale: 25
+
+For those who are interested in Long checks, the following figure shows the histogram of the waiting days for long check cases (above 60 days) and all check cases.
+
+.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/hist.png
+   :scale: 25
+
+
 
 Disclaimer: 
 =======================
