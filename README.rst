@@ -33,10 +33,7 @@ Some Example Output
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/checkAVGbymonth.PNG
    :scale: 25
 
-.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consular.PNG
-   :height: 100
-   
-.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/visatype.PNG
+.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularandvisatype.PNG
    :height: 100
    
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularrate.PNG
