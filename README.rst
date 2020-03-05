@@ -27,24 +27,30 @@ The data shows that the checking cases has increased over the previous year.
 Some Example Output
 =======================
 
+The monthly long check cases (above 60 days) is using the secondary axis on the chart, Blue stands for AVG checking time for long checks of that month, red represents for longest checking time for that month. Data shows that the long check cases has dramatically increased in 2019.
+
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/longcheck.PNG
    :scale: 25
+
+The following chart is the monthly average waiting time over the past 11 years. Data shows that the waiting time over the past few years has remains the same, slightly increased in 2019.
    
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/checkAVGbymonth.PNG
    :scale: 25
 
+These two pie charts shows the visa type and consular ratios
+
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularandvisatype.PNG
    :height: 100
-   
+
+The following table indicate that Beijing consular is actually not worst than any of the others. There are sayings that it is easier to get a visa at a embassy of a third country,but it is not really true from the data. 
+
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularrate.PNG
    :scale: 25
 
-For those who are interested in Long checks, the following figure shows the histogram of the waiting days for long check cases (above 60 days) and all check cases.
+For those who are interested in Long checks, the following figure shows the histogram of the waiting days for long check cases (above 60 days) and all check cases. The histogram clearly shows that most cases get cleared with in 60 days. If you are unfortunate and went through the long check, there is another peak of visa approval on around 100 days. After that, the chance of being cleared dramatically reduced to almost zero. A very interesting observation is that, for those who get cleared within two weeks, the chance of getting cleared is almost the same on each of these 14 days.
 
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/hist.png
    :scale: 25
-
-
 
 Disclaimer: 
 =======================
