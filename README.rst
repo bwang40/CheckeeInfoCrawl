@@ -37,12 +37,12 @@ The following chart is the monthly average waiting time over the past 11 years. 
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/checkAVGbymonth.PNG
    :scale: 25
 
-These two pie charts shows the visa type and consular ratios
+These two pie charts shows the visa type and consulate ratios, please ignore my type in the chart.
 
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularandvisatype.PNG
    :height: 100
 
-The following table indicate that Beijing consular is actually not worst than any of the others. There are sayings that it is easier to get a visa at a embassy of a third country,but it is not really true from the data. 
+The following table indicate that Beijing consulate is actually not worst than any of the others. There are sayings that it is easier to get a visa at a embassy of a third country,but it is not really true from the data. 
 
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularrate.PNG
    :scale: 25
