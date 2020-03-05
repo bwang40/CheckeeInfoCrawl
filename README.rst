@@ -37,7 +37,7 @@ The following chart is the monthly average waiting time over the past 11 years. 
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/checkAVGbymonth.PNG
    :scale: 25
 
-These two pie charts shows the visa type and consulate ratios, please ignore my type in the chart.
+These two pie charts shows the visa type and consulate ratios, please ignore my typo in the chart.
 
 .. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularandvisatype.PNG
    :height: 100
