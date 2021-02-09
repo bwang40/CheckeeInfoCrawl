@@ -24,6 +24,24 @@ update on March 2020:
 -------------------------
 The data shows that the checking cases has increased over the previous year.
 
+The checkee.info_ website is organized by month, each independent month has its page with all cases been checked in that month. The code starts with creating a list of websites in the time range that I am interested in with the following code::
+    
+    #Function to create time list
+    def ListofTime_generator(StartYear,StartMon,EndYear,EndMon):
+        ListofTime = []
+        while(StartYear!=EndYear or StartMon!=EndMon):
+            ListofTime.append(str(StartYear) + "-" + str(StartMon).zfill(2))
+            if StartMon == 12:
+                StartYear += 1
+                StartMon = 1
+            else:
+                StartMon += 1
+        ListofTime.append(str(EndYear) + "-" + str(EndMon).zfill(2))
+        return ListofTime
+    StartYear,StartMon,EndYear,EndMon = 2008,12,2021,1
+    ListofTime = ListofTime_generator(StartYear,StartMon,EndYear,EndMon)
+
+
 Some Example Output
 =======================
 
