@@ -16785,6 +16785,24 @@ got reply from senator, same as what I directly get from the consulate.
 updated 10/04, ask for updated enrollment letter and send back on the same day.
 updated 10/07
 issued 10/08******************End*********************--------------------------------------------
+Case ID    : 松茗VISA Typ   : F1 NewConsular   : ChengDuMajor in   : Material MasterTime : 2019-5-2 weekday 4 to 2020-2-21 weekday 5 Length     : 295 daysStatus     : Reject****************Comment*******************6/11
+no updates
+7/1
+呵，没消息，真恶心
+7/31
+90天纪念日，awesome
+8/10
+15号开学，还剩5天，航班取消，可能赶不上了
+9/7
+曾经看着一年前有一些白条，我以为是有人忘更新了，结果我现在也加入了他们，成为一员。
+12/14
+还是没有，defer了两次，先不撤签，明年三四月份再说。
+
+2020/8/3
+看了一眼，2月份给拒签了
+塞翁失马 焉知非福
+国内考研了
+******************End*********************--------------------------------------------
 Case ID    : letmegoVISA Typ   : F1 NewConsular   : ShangHaiMajor in   : Mechanical EngineeringTime : 2019-5-2 weekday 4 to 2019-6-4 weekday 2 Length     : 33 daysStatus     : Clear****************Comment*******************Immediately checked when hearing my major. God let me go
 5.02  1st update
 5.31. 毫无消息 超越护体让我过啊！！！！！！！！
@@ -16842,6 +16860,11 @@ Case ID    : 简小调VISA Typ   : F1 NewConsular   : ShangHaiMajor in   : en
 希望大家都快下来吧！！！祝福大家！******************End*********************--------------------------------------------
 Case ID    : passforF1VISA Typ   : F1 NewConsular   : ShangHaiMajor in   : Mechanical EngineeringTime : 2019-5-2 weekday 4 to 2019-6-6 weekday 4 Length     : 35 daysStatus     : Clear****************Comment*******************Jun.5 updated
 Jun.6 afternoon issued.******************End*********************--------------------------------------------
+Case ID    : 图样图森破VISA Typ   : F1 NewConsular   : ShangHaiMajor in   : METime : 2019-5-2 weekday 4 to 2020-3-5 weekday 4 Length     : 308 daysStatus     : Clear****************Comment*******************4/30 Case created
+5/2 AP, told by interviewer that 3-4 weeks required
+8/24 no update until now
+3/5 status: confirmed by consular officer: reject under 214b
+准备二千，大概是最后一次去了******************End*********************--------------------------------------------
 Case ID    : jerry1996VISA Typ   : F1 NewConsular   : ShangHaiMajor in   : ECETime : 2019-5-3 weekday 5 to 2019-6-13 weekday 4 Length     : 41 daysStatus     : Clear****************Comment*******************Case First Updated:	03-May-2019
 Case Second Updated:	12-Jun-2019 !!!
 Issued 13-Jun-2019******************End*********************--------------------------------------------
@@ -16960,16 +16983,10 @@ Issued: 04-Jun-2019
 6.3无update
 6.4 issued
 ******************End*********************--------------------------------------------
-Case ID    : 求快点签发VISA Typ   : F1 NewConsular   : BeiJingMajor in   : ECETime : 2019-5-6 weekday 1 to 2020-1-15 weekday 3 Length     : 254 daysStatus     : Clear****************Comment*******************Ph.D. student
+Case ID    : 求快点签发VISA Typ   : F1 NewConsular   : BeiJingMajor in   : ECETime : 2019-5-6 weekday 1 to 2020-6-29 weekday 1 Length     : 420 daysStatus     : Reject****************Comment*******************2019,="" 15-jan-2020,="" 29-jun-2020,="" a="" administrative="" and="" application="" borrow="" call="" closed...="" comes.="" completed="" covid-19="" day.="" days="" embassy="" href="./personal_detail.php?casenum=824554" i="" into="" later,="" next="" no="" passport="" processing".="" received="" returned="" saying="" target="_blank" that="" the="" title="Ph.D. student
 
 Case Created: 03-May-2019
-Case 1st Updated: 06-May-2019 (interview)
-
-13-July-2019, no update
-06-Aug-2019, no update
-02-Jan-2020, no update
-15-Jan-2020, updated, received a call asking to return the passport
-******************End*********************--------------------------------------------
+Case 1st Updated: 06-May-2019 (interview), " turned="" two="" update="" updated,="" visa="" was="******************End*********************--------------------------------------------
 Case ID    : Dr0pVISA Typ   : F1 RenewalConsular   : ShangHaiMajor in   : CSTime : 2019-5-6 weekday 1 to 2019-6-6 weekday 4 Length     : 31 daysStatus     : Clear****************Comment*******************5/6 1st update
 6/5 2nd update
 6/6 clear******************End*********************--------------------------------------------
@@ -17266,7 +17283,7 @@ Case ID    : rootVISA Typ   : F1 NewConsular   : BeiJingMajor in   : CSTime 
 Case ID    : 刚好30天VISA Typ   : F1 NewConsular   : ShangHaiMajor in   : ECETime : 2019-5-14 weekday 2 to 2019-6-14 weekday 5 Length     : 31 daysStatus     : Clear****************Comment*******************2019-05-14 first update
 2019-06-03 second update
 2019-06-03 issued******************End*********************--------------------------------------------
-Case ID    : 粗糙的程序VISA Typ   : F1 NewConsular   : BeiJingMajor in   : CSTime : 2019-5-14 weekday 2 to 2019-9-23 weekday 1 Length     : 132 daysStatus     : Reject****************Comment*******************赶紧过吧，求川普了
+Case ID    : 粗糙的程序VISA Typ   : F1 NewConsular   : BeiJingMajor in   : CSTime : 2019-5-14 weekday 2 to 2020-4-11 weekday 6 Length     : 333 daysStatus     : Reject****************Comment*******************赶紧过吧，求川普了
 Case Created:	13-May-2019
 Case Last Updated:	14-May-2019
 7.3了。。。50天没有任何动静。。。。。
@@ -17295,7 +17312,15 @@ Case Last Updated:	04-Nov-2019
 
 群里二签出了一半左右，首签死等出的比较少，但是也有零星的。
 但也有二签依旧长c，或者首签撤签一两个月后，case update或使馆通知首签出签，然而作废了的可怜孩子。想清楚再重签吧
-祝大家好运******************End*********************--------------------------------------------
+祝大家好运
+
+========================
+尾声
+2020.4.11在美国隔离。心血来潮，查询了一下签证状态
+rej
+并且没有up，直接rej
+换而言之，这个case自从2019.5.14 up了一次之后，再也没有up。直到2020的3或4月，被拒签。可能是因为疫情吧。
+如果不是疫情，可能还能继续审查？毕竟群里的记录是，审查21个月后rej******************End*********************--------------------------------------------
 Case ID    : cys970505VISA Typ   : F1 NewConsular   : ShenYangMajor in   : IE-ORTime : 2019-5-14 weekday 2 to 2019-10-11 weekday 5 Length     : 150 daysStatus     : Reject****************Comment*******************求好运吧！也祝长check的伙伴们好运！
 50天咯  没有update
 7.13日 仍然没有更新  60days
@@ -17349,6 +17374,13 @@ Case ID    : tianxinxinVISA Typ   : F1 RenewalConsular   : ShangHaiMajor in  
 Case ID    : sapphiraVISA Typ   : F1 NewConsular   : OthersMajor in   : Nuclear Engineering PhDTime : 2019-5-15 weekday 3 to 2019-8-7 weekday 3 Length     : 84 daysStatus     : Clear****************Comment*******************1st update - Aug 06
 Issued - Aug 07
 Goodluck everyone!******************End*********************--------------------------------------------
+Case ID    : 余则成VISA Typ   : F1 NewConsular   : ShenYangMajor in   : Aerospace and mechanical Time : 2019-5-15 weekday 3 to 2019-11-30 weekday 6 Length     : 199 daysStatus     : Clear****************Comment*******************Still no update
+为什么这么慢啊
+Second update:
+11月底才过
+经历了贸易战，赶在了疫情之前回去的，真的是万幸。
+
+******************End*********************--------------------------------------------
 Case ID    : yi234567VISA Typ   : F1 NewConsular   : ShangHaiMajor in   : CSTime : 2019-5-16 weekday 4 to 2019-6-14 weekday 5 Length     : 29 daysStatus     : Clear****************Comment*******************F1携签两个F2，当场只关心婚姻的真实性（已经结婚七年了），拿出手电筒验真结婚证，真的服了。
 用红色的文件夹包着去check，感觉可能会很久很久。
 6.2 no update
@@ -17627,6 +17659,14 @@ Case Update:	27-Dec-2019
 Issued: 30-Dec-2019
 
 ******************End*********************--------------------------------------------
+Case ID    : 超越妹妹VISA Typ   : F1 NewConsular   : ShangHaiMajor in   : EETime : 2019-5-28 weekday 2 to 2019-10-21 weekday 1 Length     : 146 daysStatus     : Clear****************Comment*******************Case created on 5.24
+First update on 5.28
+No update till 7.15
+
+If you are checked as long as I am, you can contact me through wechat:yy19970927. We can share experience and encourage each other.
+
+Give my best wishes to all checkees
+And hope Chaoyue sister can bless me!******************End*********************--------------------------------------------
 Case ID    : wcw987321VISA Typ   : F1 NewConsular   : BeiJingMajor in   : Computer ScienceTime : 2019-5-28 weekday 2 to 2020-1-16 weekday 4 Length     : 233 daysStatus     : Clear****************Comment*******************1/15 First Update
 1/16 Issued******************End*********************--------------------------------------------
 Case ID    : 超越妹妹保VISA Typ   : F1 RenewalConsular   : BeiJingMajor in   : CSTime : 2019-5-29 weekday 3 to 2019-6-24 weekday 1 Length     : 26 daysStatus     : Clear****************Comment*******************PhD例行check
@@ -19106,6 +19146,12 @@ Case ID    : 阿香VISA Typ   : F1 RenewalConsular   : ShangHaiMajor in   : S
 Issue - 8/21
 
 祝大家早日issue!!!******************End*********************--------------------------------------------
+Case ID    : SavickVISA Typ   : F1 NewConsular   : BeiJingMajor in   : Mechanical EngineeringTime : 2019-7-16 weekday 2 to 2020-5-25 weekday 1 Length     : 314 daysStatus     : Reject****************Comment*******************8.23 still no update，昨天又发了一封邮件，暂时还没有回复，学校下周一就开始正式上课了，不知道九月前还能不能成行。这些天心情真的很差了，从六月底去做暑研的J签被check， 之后撤签换F再次被check， 坐邮轮遇上台风， 飞机晚点， 实验买的驱动板是坏的，可以说这两个月一件好事也没有发生。因为签证问题耽误太多太多事情了， 忙活了三个月申请的暑研泡汤了，浪费了去纽约的机票和租好的房间，托福也没有考位了，还放弃了国内的一个准备了一年的竞赛，实在是没有想到这两个月如此的煎熬。 如果九月前签证还没有update的话，可能要考虑留在国内读完这一年了，要重新规划许多东西，尽管这些事有许多我可以做得更好的地方，但还是要说一句bad luck， 运气这个东西太折磨人了，大家真的真的，尽早预约面签。希望都能尽快issued
+11.02 Still no update，已经留在国内读了两个月大四了，只希望不要拒签，不要影响研究生的签证。
+02.11 no update, 已经超过200天了，不知道还会不会好，再申请一些日本的学校吧
+05.25.2020 refused, 很久没查状态，但应该就是最近被拒签的，
+前几天收到了东大的offer，希望去日本的签证顺利吧。美签应该会等疫情好转后申请个B1防身，也平衡平衡签证记录，还有一个很囧的事，就是我一月份被意大利也拒签了，总之我的经验是不要找中介，像这次的美签虽然很完蛋，但我知道不是我的错，我已经做到最好了。申根图方便找了中介，但是业务能力完全不行，而且也没省多少事，当然按结果来说当时没去意大利是对的。要不估计两头隔离。
+过去这一年留在国内读了大四，找了一份实习考了几次托福，申请是完全DIY的，在北美申了十个学校，选校策略过于莽撞，最后只收到了一个offer。二月更新了状态之后，开始申请东京大学，前几天刚刚拿到offer，没想到自己能录取，真的很开心，有一种如释重负感。 过去的一年真的经历了太多大起大落，最崩溃的时候爱听Frank Sinatra的Thats life，有几句歌词我很喜欢。 “You were flying high in April, and shot down in may. But I know I gonna change my tune, when I’m back on top in June” 加油，The best is yet to come.******************End*********************--------------------------------------------
 Case ID    : 求求求求求VISA Typ   : F1 RenewalConsular   : BeiJingMajor in   : StatisticsTime : 2019-7-16 weekday 2 to 2019-8-20 weekday 2 Length     : 35 daysStatus     : Clear****************Comment*******************7/15: Case created
 7/16: First update
 8/19: second update
@@ -19849,6 +19895,12 @@ Case ID    : fz29888VISA Typ   : F1 RenewalConsular   : GuangZhouMajor in   :
 12/12/2019: 1st update and interview
 1/8/2020: 2nd update
 1/9/2020: Issued @ 12:00 pm******************End*********************--------------------------------------------
+Case ID    : SunnySummerVISA Typ   : F1 RenewalConsular   : BeiJingMajor in   : METime : 2019-12-12 weekday 4 to 2020-8-4 weekday 2 Length     : 236 daysStatus     : Reject****************Comment*******************Case Created:	11-Dec-2019
+First Case Updated:      12-Dec-2019
+Case 1st Updated:	22-Jan-2020
+
+Case Last Updated:	30-Jul-2020
+服了，等了这么久，拒了，连个通知都没有。还得自己查护照在哪儿。******************End*********************--------------------------------------------
 Case ID    : check_shanghaiVISA Typ   : F1 RenewalConsular   : ShangHaiMajor in   : ECETime : 2019-12-13 weekday 5 to 2020-1-8 weekday 3 Length     : 26 daysStatus     : Clear****************Comment*******************STEM OPT 返签
 只看了I20和简历，要求在中信补详细简历和公司产品介绍
 
@@ -19916,6 +19968,12 @@ second update 20-01-08
 issued 20-01-09******************End*********************--------------------------------------------
 Case ID    : InGodWeTrustVISA Typ   : F1 NewConsular   : ShangHaiMajor in   : CSTime : 2019-12-18 weekday 3 to 2020-1-17 weekday 5 Length     : 30 daysStatus     : Clear****************Comment*******************1-16-2020 update
 1-17-2020 issue******************End*********************--------------------------------------------
+Case ID    : 大吉求早过VISA Typ   : F1 RenewalConsular   : ShangHaiMajor in   : EETime : 2019-12-19 weekday 4 to 2020-2-10 weekday 1 Length     : 53 daysStatus     : Clear****************Comment*******************02/05 no update yet
+12月的不是都挺快的吗？急
+02/10 update
+接到电话说审理结束，等使馆开门把护照送回去
+
+申请了新的签证了，确认了之前已经clear，这个应该算是2-10完结的吧******************End*********************--------------------------------------------
 Case ID    : lihz14VISA Typ   : F1 RenewalConsular   : GuangZhouMajor in   : METime : 2019-12-19 weekday 4 to 2019-12-23 weekday 1 Length     : 4 daysStatus     : Clear****************Comment*******************AP informed by VO during interview on Dec 19.
 ----
 18-Dec-2019 Case Created
@@ -20063,3 +20121,137 @@ Case ID    : SistineWangVISA Typ   : F1 NewConsular   : ShenYangMajor in   : 
 无update，03/03显示refused，据说是AP改名字了
 
 ******************End*********************--------------------------------------------
+Case ID    : DZVISA Typ   : F1 RenewalConsular   : VancouverMajor in   : EETime : 2020-3-13 weekday 5 to 2020-10-14 weekday 3 Length     : 215 daysStatus     : Clear****************Comment*******************1st update: 09/01/2020
+AP cleared &amp; email to send passport: 10/01/2020
+Issued: 10/13/2020******************End*********************--------------------------------------------
+Case ID    : AmmoniaVISA Typ   : F1 NewConsular   : EuropeMajor in   : Biological SciencesTime : 2020-7-23 weekday 4 to 2020-9-2 weekday 3 Length     : 41 daysStatus     : Clear****************Comment*******************Amsterdam Consulate
+Passport returned, CV kept
+
+25-08: Emailed to send back passport, 2nd update on CEAC and shows Administrative Processing
+02-09: CEAC shows Issued******************End*********************--------------------------------------------
+Case ID    : emma_chenVISA Typ   : F1 NewConsular   : EuropeMajor in   : Chemical EngineeringTime : 2020-7-27 weekday 1 to 2020-9-15 weekday 2 Length     : 50 daysStatus     : Clear****************Comment*******************London
+9.2 Requested send passport back
+9.14 CEAC update, still shows refused
+9.14 CEAE update again, AP
+9.15 Issued******************End*********************--------------------------------------------
+Case ID    : KangkangVISA Typ   : F1 NewConsular   : EuropeMajor in   : BiostatisticsTime : 2020-7-31 weekday 5 to 2020-8-25 weekday 2 Length     : 25 daysStatus     : Clear****************Comment*******************Bern, Switzerland 
+12-08 - asked to send passport, CEAC no update
+17-08 - CEAC administrative processing
+18-08 - Update
+25-08 - Issued******************End*********************--------------------------------------------
+Case ID    : randomssszzzzVISA Typ   : F1 NewConsular   : EuropeMajor in   : PsychologyTime : 2020-7-31 weekday 5 to 2020-9-18 weekday 5 Length     : 49 daysStatus     : Clear****************Comment*******************Asked to submit information about sources of funding for education, research, and publications
+9.14 asked to send passport back (sent 9.15)
+9.16 case last updated
+9.18 Issued******************End*********************--------------------------------------------
+Case ID    : hellowordVISA Typ   : F1 NewConsular   : HongKongMajor in   : MS Software EngineeringTime : 2020-8-5 weekday 3 to 2020-9-2 weekday 3 Length     : 28 daysStatus     : Clear****************Comment*******************clear date is after program start date. need to update i20 program start date to be after Sep 2nd.******************End*********************--------------------------------------------
+Case ID    : CrystalBoyVISA Typ   : F1 NewConsular   : HongKongMajor in   : Computer ScienceTime : 2020-8-11 weekday 2 to 2020-9-9 weekday 3 Length     : 29 daysStatus     : Clear****************Comment*******************9.3 AP finished, received email notification asking to submit passport and updated I-20 (due to expired program start date)
+9.4 school emailed new I-20 (the start date was changed to one month later); submitted passport and updated I-20 in the afternoon
+9.8 status changed to administrative processing
+9.9 issued
+******************End*********************--------------------------------------------
+Case ID    : XIAOVISA Typ   : F1 NewConsular   : EuropeMajor in   : Industrial engineeringTime : 2020-8-12 weekday 3 to 2020-9-11 weekday 5 Length     : 30 daysStatus     : Clear****************Comment*******************London 
+02/09 passport request
+10/09 latest update******************End*********************--------------------------------------------
+Case ID    : pleasissue2VISA Typ   : F1 NewConsular   : OthersMajor in   : civilTime : 2020-8-24 weekday 1 to 2020-9-24 weekday 4 Length     : 31 daysStatus     : Clear****************Comment*******************Cambodia
+8.24 AP, refused
+9.23 update, AP
+9.24 update, issued******************End*********************--------------------------------------------
+Case ID    : backtoUSVISA Typ   : F1 RenewalConsular   : EuropeMajor in   : ME PHDTime : 2020-8-26 weekday 3 to 2020-10-2 weekday 5 Length     : 37 daysStatus     : Clear****************Comment*******************" (self-funded="" (sent="" 10="" 2="" 2,="" 2020="" 2020:="" 221(g)="" 25="" 28="" 29="" 2nd="" 30="" 3rd="" 4th="" 5="" 9="" a="" about="" again.="" and="" apply="" asked="" bachelor="" back="" before="" case="" changed="" checked="" china="" clearance="" covid),="" cv="" email="" email,="" except="" f1="" fellowship="" form.="" funding="" have="" href="./personal_detail.php?casenum=829370" i="" in="" issue!="" issued="" jan,="" london="" mail="" mainland,="" master="" me="" me:="" notes="" now="" of="" on="" out="" passport="" passport,="" past,="" pending="" phd="" phd).="" pick="" pick-up="" picked="" processing"="" put="" received="" refused"="" required="" shanghai="" source="" still="" store)="" switched="" target="_blank" the="" title="Renew F1 in London
+8/26/2020: interview, 1st update, " to="" uk="" up="" update,="" us="" us,="" visa)="" visitor="" vo="" was="" with="" year="******************End*********************--------------------------------------------
+Case ID    : 万事顺意VISA Typ   : F1 RenewalConsular   : EuropeMajor in   : CHBE PHDTime : 2020-8-26 weekday 3 to 2020-10-22 weekday 4 Length     : 57 daysStatus     : Clear****************Comment*******************London.
+One pending case in Beijing on Jan. 17th, 2020.
+
+Interviewed on Aug. 26th, 2020 and asked to send a CV with all the funding sources.
+Case created on Aug. 26th, one updated on Sep. 22nd.
+
+Asked to send back passport on Oct 13(Finally)
+CEAC Status: Refused -&gt; AP
+
+Another update on Oct 16(??)
+
+One more update on Oct 19 (??????????????)
+
+One more update on Oct 20. (sigh)
+
+Issued on Oct 21 (finally).
+
+Picked up passport on Oct 22 (only 1 year sigh)
+
+Good luck to everyone! It would be great if everyone writes down the details of his/her cases.******************End*********************--------------------------------------------
+Case ID    : clamdownVISA Typ   : F1 NewConsular   : OthersMajor in   : Computational BiologyTime : 2020-8-27 weekday 4 to 2020-10-17 weekday 6 Length     : 51 daysStatus     : Clear****************Comment*******************c="" f1"="" href="./personal_detail.php?casenum=829384" passport,="" picked="" target="_blank" title="8-27 Interview
+9-2 Submited required materials (study plan, CV, etc.) for AP
+9-3 Submited a support letter from our school
+10-6 Sent an email to the AP email address to ask for AP status
+10-7 night CEAC status changed: Refused -&gt; AP
+10-8 The consular informed to send back passport; passport sent
+10-15 Asked about visa status via the CGI feedback system
+10-15 CEAC updated " up="" updated="******************End*********************--------------------------------------------
+Case ID    : 快快过VISA Typ   : F1 NewConsular   : OthersMajor in   : BioinformaticsTime : 2020-9-10 weekday 4 to 2020-10-9 weekday 5 Length     : 29 daysStatus     : Clear****************Comment*******************10-01 request for sending passport
+10-06 passport sent 
+10-07 1st update AP
+10-09 Issued******************End*********************--------------------------------------------
+Case ID    : kathywuVISA Typ   : F1 NewConsular   : HongKongMajor in   : CS relatedTime : 2020-9-21 weekday 1 to 2020-11-18 weekday 3 Length     : 58 daysStatus     : Clear****************Comment*******************Case last update: 9.21
+wechat: ClaudeChopin******************End*********************--------------------------------------------
+Case ID    : creli1VISA Typ   : F1 NewConsular   : TorontoMajor in   : Computer ScienceTime : 2020-9-24 weekday 4 to 2020-11-13 weekday 5 Length     : 50 daysStatus     : Clear****************Comment*******************Case Created: 21-Sep-2020
+Email Update: 05-Nov-2020
+Issued 13-Nov-2020******************End*********************--------------------------------------------
+Case ID    : sin0930VISA Typ   : F1 NewConsular   : EuropeMajor in   : MBATime : 2020-9-30 weekday 3 to 2020-11-6 weekday 5 Length     : 37 daysStatus     : Clear****************Comment*******************9/30 interview-&gt;refuse(check)
+11/3 ask to send passport
+11/4 status update-&gt;AP
+11/6 status update-&gt;issue******************End*********************--------------------------------------------
+Case ID    : LondonVisaVISA Typ   : F1 RenewalConsular   : OthersMajor in   : physicsTime : 2020-10-14 weekday 3 to 2020-12-7 weekday 1 Length     : 54 daysStatus     : Clear****************Comment*******************Interviewed in London, not many questions asked, 221g.
+
+first update 11.27, still refused
+requested to send passport back on 12.1, refused
+second update 12.4, ap
+12.7 issued
+12.7 afternoon notified tracking number through email
+12.8 picked up passport
+
+visa shows clearance received on Nov 24, so you know they really did take their time.
+******************End*********************--------------------------------------------
+Case ID    : issuesongVISA Typ   : F1 NewConsular   : EuropeMajor in   : BMETime : 2020-10-16 weekday 5 to 2020-11-25 weekday 3 Length     : 40 daysStatus     : Clear****************Comment*******************Berlin. VO only kept my CV and DS160 confirmation.
+10.16: ceac first updated showed refused.
+10.22: ceac second updated still showed refused.
+11.05: asked CV of academic advisor and offer letter.
+11.25: AP completed via email.******************End*********************--------------------------------------------
+Case ID    : letsgogogoVISA Typ   : F1 NewConsular   : OthersMajor in   : Environmental EngineeringTime : 2020-10-28 weekday 3 to 2020-11-20 weekday 5 Length     : 23 daysStatus     : Clear****************Comment*******************Phnom Penh
+Env Eng PhD
+
+10.26 Case Created
+10.28 Refused
+11.17 AP, received email from Consulate for submitting passport
+11.18 AP, update
+11.20 Issued
+******************End*********************--------------------------------------------
+Case ID    : Good_luckVISA Typ   : F1 NewConsular   : EuropeMajor in   : BioXX engineeringTime : 2020-11-4 weekday 3 to 2020-12-1 weekday 2 Length     : 27 daysStatus     : Clear****************Comment*******************Interview in London
+2020/11/24 Received email requesting the passport and the status changed from refused to AP.
+2020/11/27 Second update, still AP.
+2020/12/01 Issued and I should get my passport tomorrow.
+Thanks a lot!!!******************End*********************--------------------------------------------
+Case ID    : fishVISA Typ   : F1 NewConsular   : OthersMajor in   : Biological and BiomedicalTime : 2020-11-9 weekday 1 to 2020-12-2 weekday 3 Length     : 23 daysStatus     : Clear****************Comment*******************Guayaquil, Ecuador
+2020-11-9: interview, Additional information required
+2020-11-30: Email informed to hand in the passport
+2020-12-1: CEAC update from refused to Administrative process
+2020-12-2: Issue, passport picked up, clearance date 11/27
+******************End*********************--------------------------------------------
+Case ID    : LuluVISA Typ   : F1 RenewalConsular   : OthersMajor in   : Biomedical EngineeringTime : 2020-11-10 weekday 2 to 2020-12-4 weekday 5 Length     : 24 daysStatus     : Clear****************Comment*******************11.10 interview in Cambodia
+11.27 refused changed to AP
+11.30 got email AP over and re-subimit passport
+12.1 second update AP
+12.4 get passport 
+******************End*********************--------------------------------------------
+Case ID    : hopeVISA Typ   : F1 RenewalConsular   : TorontoMajor in   : social scienceTime : 2020-11-19 weekday 4 to 2020-11-24 weekday 2 Length     : 5 daysStatus     : Clear****************Comment*******************11.18 case created
+11.19 interview, status - refused
+11.23 first update, still refused
+      second update, AP
+11.24 issued and later received the email annoucement******************End*********************--------------------------------------------
+Case ID    : QuayaquilVISA Typ   : F1 NewConsular   : OthersMajor in   : MBATime : 2020-11-27 weekday 5 to 2020-12-9 weekday 3 Length     : 12 daysStatus     : Clear****************Comment*******************I came to Guayaquil, Ecuador for the F1 visa. My undergraduate is majored in mathematics in a Chinese university focused on agricultural.
+
+On interview, I was requested my CV(which I had no idea that I should bring).
+
+Then upon check, I was asked to provide information such as 15 years of travel record/phone numbers/family members etc.
+
+On 12/7, I received the email to deliver my passport but the CEAC portal did not update. It updated on 12/8 and I collected my passport on 12/9.
+
+Good luck to you all.******************End*********************--------------------------------------------

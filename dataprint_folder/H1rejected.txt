@@ -15,6 +15,12 @@ updates：
 9.12 2nd
 9.16 3rd (周末。。https://ceac.state.gov的验证码还坏了 你能信)
 9.19 4th ******************End*********************--------------------------------------------
+Case ID    : ssVISA Typ   : H1 NewConsular   : BeiJingMajor in   : CSTime : 2019-12-26 weekday 4 to 2020-7-29 weekday 3 Length     : 216 daysStatus     : Reject--------------------------------------------
+Case ID    : asdfasdfVISA Typ   : H1 NewConsular   : GuangZhouMajor in   : Chemical EngineeringTime : 2020-1-2 weekday 4 to 2020-4-2 weekday 4 Length     : 91 daysStatus     : Reject****************Comment*******************VO收走了CV，offer letter，job description，公司介绍，告知需要3-4周。
+01/02/2020 Case created - AP
+02/19/2020 1st update - AP
+
+撤签，前往迪拜二签，3/1面谈，3/12 1st update，3/19 2nd update，3/21 issue，3/22 拿到护照。******************End*********************--------------------------------------------
 Case ID    : 0232581VISA Typ   : H1 NewConsular   : BeiJingMajor in   : EETime : 2020-1-13 weekday 1 to 2020-3-4 weekday 3 Length     : 51 daysStatus     : Reject****************Comment*******************?casenum=828900" in="" is="" last="" no="" refused".="" target="_blank" title="Status shows " updated="" which="******************End*********************--------------------------------------------
 Case ID    : wafarinVISA Typ   : H1 NewConsular   : BeiJingMajor in   : N/ATime : 2020-1-21 weekday 2 to 2020-3-5 weekday 4 Length     : 44 daysStatus     : Reject****************Comment*******************Jan 21 interview
 Jan 22 update
@@ -23,3 +29,4 @@ Mar 3 refsed
 Case ID    : AA009INIVISA Typ   : H1 NewConsular   : BeiJingMajor in   : EETime : 2020-1-23 weekday 4 to 2020-3-5 weekday 4 Length     : 42 daysStatus     : Reject****************Comment*******************1/22 Case Created
 1/23 Case Updated
 VO说AP可能需要久一点时间。。。******************End*********************--------------------------------------------
+Case ID    : myh1108VISA Typ   : H1 RenewalConsular   : VancouverMajor in   : CSTime : 2020-3-2 weekday 1 to 2020-3-4 weekday 3 Length     : 2 daysStatus     : Reject--------------------------------------------

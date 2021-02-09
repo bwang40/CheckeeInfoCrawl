@@ -283,6 +283,10 @@ Case ID    : AA008***7CVISA Typ   : J1 NewConsular   : BeiJingMajor in   : NE
 Case ID    : 报case攒rp求VISA Typ   : F1 NewConsular   : BeiJingMajor in   : METime : 2018-11-29 weekday 4 to 2018-12-7 weekday 5 Length     : 8 daysStatus     : Reject****************Comment*******************来更新下，因为check太久换了地方重新签，第二周就被拒了，现在已在国内工作。重新签证需谨慎。准备去美国要谨慎，一定要做好备选方案。******************End*********************--------------------------------------------
 Case ID    : trump特智障VISA Typ   : B1 NewConsular   : OthersMajor in   : Computer ScienceTime : 2018-11-30 weekday 5 to 2018-11-30 weekday 5 Length     : 0 daysStatus     : Reject****************Comment*******************For a conference, immediately rejected by the US Jerusalem embassy. ******************End*********************--------------------------------------------
 Case ID    : gege2019VISA Typ   : J1 RenewalConsular   : GuangZhouMajor in   : materials engieeringTime : 2018-12-3 weekday 1 to 2019-8-14 weekday 3 Length     : 254 daysStatus     : Reject****************Comment*******************撤签了！等到合同都结束了，哎！祝大家好运！******************End*********************--------------------------------------------
+Case ID    : AmaterasuVISA Typ   : B2 NewConsular   : BeiJingMajor in   : MicroelectronicsTime : 2018-12-7 weekday 5 to 2019-2-17 weekday 7 Length     : 72 daysStatus     : Reject****************Comment*******************12.07: Interviewed
+12.09: Submitted materials
+1.17：Get a phone call from the embassy. Asked me whether I will go to the US if the Visa is issued.
+Rejected.******************End*********************--------------------------------------------
 Case ID    : smilexykVISA Typ   : F1 NewConsular   : GuangZhouMajor in   : Industrial EngineeringTime : 2019-1-2 weekday 3 to 2019-2-15 weekday 5 Length     : 44 daysStatus     : Reject****************Comment*******************2018-12-31 Case Created
 2019-01-02 Case First Update
 2019-01-03 Case Second Update
@@ -319,10 +323,32 @@ Case ID    : 超越姐姐VISA Typ   : J1 NewConsular   : ShangHaiMajor in   :
 8/17/2019,110天了，留基委资助还有一个月就到期了，伤心。。。
 收回护照。妈的，真不靠谱，耽误我那么长时间，还把计划打乱了！******************End*********************--------------------------------------------
 Case ID    : aa008uxab1VISA Typ   : B2 NewConsular   : BeiJingMajor in   : FATime : 2019-5-2 weekday 4 to 2019-7-9 weekday 2 Length     : 68 daysStatus     : Reject****************Comment*******************就这样吧******************End*********************--------------------------------------------
+Case ID    : 松茗VISA Typ   : F1 NewConsular   : ChengDuMajor in   : Material MasterTime : 2019-5-2 weekday 4 to 2020-2-21 weekday 5 Length     : 295 daysStatus     : Reject****************Comment*******************6/11
+no updates
+7/1
+呵，没消息，真恶心
+7/31
+90天纪念日，awesome
+8/10
+15号开学，还剩5天，航班取消，可能赶不上了
+9/7
+曾经看着一年前有一些白条，我以为是有人忘更新了，结果我现在也加入了他们，成为一员。
+12/14
+还是没有，defer了两次，先不撤签，明年三四月份再说。
+
+2020/8/3
+看了一眼，2月份给拒签了
+塞翁失马 焉知非福
+国内考研了
+******************End*********************--------------------------------------------
 Case ID    : WLYHMGVISA Typ   : F1 NewConsular   : BeiJingMajor in   : EETime : 2019-5-3 weekday 5 to 2019-10-17 weekday 4 Length     : 167 daysStatus     : Reject****************Comment*******************求过！！！
 6/21接到电话要求补交材料
 8/28无更新
 10/16无更新，撤签******************End*********************--------------------------------------------
+Case ID    : 求快点签发VISA Typ   : F1 NewConsular   : BeiJingMajor in   : ECETime : 2019-5-6 weekday 1 to 2020-6-29 weekday 1 Length     : 420 daysStatus     : Reject****************Comment*******************2019,="" 15-jan-2020,="" 29-jun-2020,="" a="" administrative="" and="" application="" borrow="" call="" closed...="" comes.="" completed="" covid-19="" day.="" days="" embassy="" href="./personal_detail.php?casenum=824554" i="" into="" later,="" next="" no="" passport="" processing".="" received="" returned="" saying="" target="_blank" that="" the="" title="Ph.D. student
+
+Case Created: 03-May-2019
+Case 1st Updated: 06-May-2019 (interview), " turned="" two="" update="" updated,="" visa="" was="******************End*********************--------------------------------------------
 Case ID    : huawei_niubiVISA Typ   : F1 NewConsular   : ChengDuMajor in   : Computer EngineeringTime : 2019-5-6 weekday 1 to 2019-11-20 weekday 3 Length     : 198 daysStatus     : Reject****************Comment*******************撤签******************End*********************--------------------------------------------
 Case ID    : MarvinzzzVISA Typ   : F1 RenewalConsular   : ShangHaiMajor in   : METime : 2019-5-7 weekday 2 to 2019-11-21 weekday 4 Length     : 198 daysStatus     : Reject****************Comment*******************续签 221g email cv
 7.16  no update 查个锤子查 啥都没有还查 
@@ -334,9 +360,14 @@ Case Last Updated:	17-Jun-2019
 没办法 家庭背景原因(直系亲属持有绿卡)
 加油******************End*********************--------------------------------------------
 Case ID    : Brynn_XVISA Typ   : F1 NewConsular   : ShangHaiMajor in   : EETime : 2019-5-9 weekday 4 to 2019-12-31 weekday 2 Length     : 236 daysStatus     : Reject****************Comment*******************12月31日 放弃撤签。。。理工科博士留美需谨慎 做好最坏打算******************End*********************--------------------------------------------
+Case ID    : yangchenyu23VISA Typ   : F1 RenewalConsular   : ShangHaiMajor in   : Industrial and Systems EnTime : 2019-5-13 weekday 1 to 2019-8-20 weekday 2 Length     : 99 daysStatus     : Reject****************Comment*******************6-17补材料
+8-20撤签
+8-26二签
+2020-3-10二签审查结束
+2020-3-31收到邮件一签撤签完成******************End*********************--------------------------------------------
 Case ID    : haipajuqianVISA Typ   : F1 NewConsular   : ShangHaiMajor in   : summer programTime : 2019-5-13 weekday 1 to 2019-5-23 weekday 4 Length     : 10 daysStatus     : Reject****************Comment*******************B2拒签一次
 F1拒签一次******************End*********************--------------------------------------------
-Case ID    : 粗糙的程序VISA Typ   : F1 NewConsular   : BeiJingMajor in   : CSTime : 2019-5-14 weekday 2 to 2019-9-23 weekday 1 Length     : 132 daysStatus     : Reject****************Comment*******************赶紧过吧，求川普了
+Case ID    : 粗糙的程序VISA Typ   : F1 NewConsular   : BeiJingMajor in   : CSTime : 2019-5-14 weekday 2 to 2020-4-11 weekday 6 Length     : 333 daysStatus     : Reject****************Comment*******************赶紧过吧，求川普了
 Case Created:	13-May-2019
 Case Last Updated:	14-May-2019
 7.3了。。。50天没有任何动静。。。。。
@@ -365,7 +396,15 @@ Case Last Updated:	04-Nov-2019
 
 群里二签出了一半左右，首签死等出的比较少，但是也有零星的。
 但也有二签依旧长c，或者首签撤签一两个月后，case update或使馆通知首签出签，然而作废了的可怜孩子。想清楚再重签吧
-祝大家好运******************End*********************--------------------------------------------
+祝大家好运
+
+========================
+尾声
+2020.4.11在美国隔离。心血来潮，查询了一下签证状态
+rej
+并且没有up，直接rej
+换而言之，这个case自从2019.5.14 up了一次之后，再也没有up。直到2020的3或4月，被拒签。可能是因为疫情吧。
+如果不是疫情，可能还能继续审查？毕竟群里的记录是，审查21个月后rej******************End*********************--------------------------------------------
 Case ID    : cys970505VISA Typ   : F1 NewConsular   : ShenYangMajor in   : IE-ORTime : 2019-5-14 weekday 2 to 2019-10-11 weekday 5 Length     : 150 daysStatus     : Reject****************Comment*******************求好运吧！也祝长check的伙伴们好运！
 50天咯  没有update
 7.13日 仍然没有更新  60days
@@ -441,6 +480,7 @@ NMSL NMSL LSMN LSMN
 10.16 WITHDRAWN CNM VO******************End*********************--------------------------------------------
 Case ID    : 423314880VISA Typ   : F1 NewConsular   : BeiJingMajor in   : CSTime : 2019-5-29 weekday 3 to 2019-9-9 weekday 1 Length     : 103 daysStatus     : Reject****************Comment*******************8/22 无更新
 9/9 不等了，撤签找工作了，祝大家好运！******************End*********************--------------------------------------------
+Case ID    : AA008XZEZHVISA Typ   : F1 NewConsular   : BeiJingMajor in   : Electrical EngineeringTime : 2019-5-30 weekday 4 to 2020-5-28 weekday 4 Length     : 364 daysStatus     : Reject--------------------------------------------
 Case ID    : lucky stoneVISA Typ   : B2 NewConsular   : GuangZhouMajor in   : CSTime : 2019-5-31 weekday 5 to 2019-7-3 weekday 3 Length     : 33 daysStatus     : Reject****************Comment*******************6月12日更新
 
 5月31日广州面签，给了绿单子，不需要补充材料，可能会接到电话，也可能不会打电话，收走了护照。
@@ -475,6 +515,9 @@ Case ID    : swithinVISA Typ   : F1 NewConsular   : BeiJingMajor in   : CSTi
 撤签了******************End*********************--------------------------------------------
 Case ID    : CHEN_WEIVISA Typ   : F1 NewConsular   : BeiJingMajor in   : PETime : 2019-6-12 weekday 3 to 2019-11-6 weekday 3 Length     : 147 daysStatus     : Reject****************Comment*******************Withdrawn and reapplied on 6/NOV
 All I can do is praying.******************End*********************--------------------------------------------
+Case ID    : 养老佛系VISA Typ   : F1 NewConsular   : BeiJingMajor in   : METime : 2019-6-12 weekday 3 to 2020-3-13 weekday 5 Length     : 275 daysStatus     : Reject****************Comment*******************佛系等过
+..........
+退了重签******************End*********************--------------------------------------------
 Case ID    : linearsongVISA Typ   : F1 NewConsular   : ChengDuMajor in   : Math PhDTime : 2019-6-13 weekday 4 to 2019-11-2 weekday 6 Length     : 142 daysStatus     : Reject****************Comment*******************vo：去美国干啥
 答：math phd
 vo: math…
@@ -523,7 +566,29 @@ Case ID    : AA0090IL7XVISA Typ   : F1 RenewalConsular   : BeiJingMajor in   
 Case ID    : letmegoVISA Typ   : F1 NewConsular   : ShangHaiMajor in   : kind of media artsTime : 2019-7-1 weekday 1 to 2019-10-10 weekday 4 Length     : 101 daysStatus     : Reject****************Comment*******************本科飞行器相关，但不是几大航空院校的，某 985 综合大学的，两年工作也不相关而是偏艺术设计，去读的 master 是艺术学院的，大体上是新媒体艺术。面签的时候VO根本没问原专业啊，完全没问！其他问题也都很水，为什么这么久哭了啊，心态崩溃
 -------------------------------------------
 错过开学，已延期，今天撤签了，之前看有人备注写使馆回复两周左右办完撤签。我这边没说时间只说开始受理了，我又发了邮件问，说 case by case....******************End*********************--------------------------------------------
+Case ID    : 求40天之内VISA Typ   : B2 RenewalConsular   : EuropeMajor in   : EpidemiologyTime : 2019-7-9 weekday 2 to 2020-3-6 weekday 5 Length     : 241 daysStatus     : Reject****************Comment*******************08/19 no update
+09/02 no update
+2020/03/06 Reject
+本来会议去不了也没指望签证了，结果check了八个月给我拒签了。******************End*********************--------------------------------------------
 Case ID    : 攒人品求过VISA Typ   : F1 NewConsular   : ChengDuMajor in   : Materials science Time : 2019-7-12 weekday 5 to 2019-11-5 weekday 2 Length     : 116 daysStatus     : Reject****************Comment*******************11/04 一直没有更新过，撤签去二签了******************End*********************--------------------------------------------
+Case ID    : SavickVISA Typ   : F1 NewConsular   : BeiJingMajor in   : Mechanical EngineeringTime : 2019-7-16 weekday 2 to 2020-5-25 weekday 1 Length     : 314 daysStatus     : Reject****************Comment*******************8.23 still no update，昨天又发了一封邮件，暂时还没有回复，学校下周一就开始正式上课了，不知道九月前还能不能成行。这些天心情真的很差了，从六月底去做暑研的J签被check， 之后撤签换F再次被check， 坐邮轮遇上台风， 飞机晚点， 实验买的驱动板是坏的，可以说这两个月一件好事也没有发生。因为签证问题耽误太多太多事情了， 忙活了三个月申请的暑研泡汤了，浪费了去纽约的机票和租好的房间，托福也没有考位了，还放弃了国内的一个准备了一年的竞赛，实在是没有想到这两个月如此的煎熬。 如果九月前签证还没有update的话，可能要考虑留在国内读完这一年了，要重新规划许多东西，尽管这些事有许多我可以做得更好的地方，但还是要说一句bad luck， 运气这个东西太折磨人了，大家真的真的，尽早预约面签。希望都能尽快issued
+11.02 Still no update，已经留在国内读了两个月大四了，只希望不要拒签，不要影响研究生的签证。
+02.11 no update, 已经超过200天了，不知道还会不会好，再申请一些日本的学校吧
+05.25.2020 refused, 很久没查状态，但应该就是最近被拒签的，
+前几天收到了东大的offer，希望去日本的签证顺利吧。美签应该会等疫情好转后申请个B1防身，也平衡平衡签证记录，还有一个很囧的事，就是我一月份被意大利也拒签了，总之我的经验是不要找中介，像这次的美签虽然很完蛋，但我知道不是我的错，我已经做到最好了。申根图方便找了中介，但是业务能力完全不行，而且也没省多少事，当然按结果来说当时没去意大利是对的。要不估计两头隔离。
+过去这一年留在国内读了大四，找了一份实习考了几次托福，申请是完全DIY的，在北美申了十个学校，选校策略过于莽撞，最后只收到了一个offer。二月更新了状态之后，开始申请东京大学，前几天刚刚拿到offer，没想到自己能录取，真的很开心，有一种如释重负感。 过去的一年真的经历了太多大起大落，最崩溃的时候爱听Frank Sinatra的Thats life，有几句歌词我很喜欢。 “You were flying high in April, and shot down in may. But I know I gonna change my tune, when I’m back on top in June” 加油，The best is yet to come.******************End*********************--------------------------------------------
+Case ID    : ZC101VISA Typ   : J1 NewConsular   : BeiJingMajor in   : Materials ScienceTime : 2019-7-19 weekday 5 to 2020-3-10 weekday 2 Length     : 235 daysStatus     : Reject****************Comment*******************Case Created: 18-Jul-2019
+Case 1st Updated: 19-Jul-2019
+1st letter: 24-Aug-2019
+reply of 1st letter: before inquiring, we should wait at least 60 days.
+2nd letter: 07-Sep-2019
+reply of 2nd letter: The same reply.
+3rd letter: 17-Sep-2019
+reply of 3rd letter: before inquiring, we should wait at least 180 days.
+18-Sep-2019: Made a call to DOS, no useful information.
+20-Sep-2019: Send mails to Senator and Congressman.
+20-Sep-2019: Send mail to borrow my Passport.
+10-Mar-2020: Refused.******************End*********************--------------------------------------------
 Case ID    : 郁闷至极VISA Typ   : J1 NewConsular   : ShangHaiMajor in   : 物理Time : 2019-7-24 weekday 3 to 2019-11-13 weekday 3 Length     : 112 daysStatus     : Reject****************Comment*******************就问是否第一次美国，去的哪个学校，看了小册子没，然后要了研究计划，CV，直接check，去你的白人老头。
 Case Created:	24-Jul-2019
 Case Last Updated:	25-Jul-2019
@@ -545,6 +610,7 @@ Case Last Updated:	25-Jul-2019
 2019-10-08  已经提交改派程序，美国真的是无耻，故意拖着不拒也不过，就是这样耗着。嗯，蛮恶心的。去欧洲了，拜拜
 
 2019-11-13 改派去了欧洲，所有手续弄完了，这个月26日出签，希望被拖着的小伙伴不要再犹豫了。祝大家一切顺利，也感谢这个网站给我吐槽的地方。******************End*********************--------------------------------------------
+Case ID    : BourneVISA Typ   : J1 NewConsular   : OthersMajor in   : EETime : 2019-8-7 weekday 3 to 2020-4-25 weekday 6 Length     : 262 daysStatus     : Reject--------------------------------------------
 Case ID    : BlessingsVISA Typ   : J1 NewConsular   : BeiJingMajor in   : Applied linguisticsTime : 2019-8-9 weekday 5 to 2019-8-30 weekday 5 Length     : 21 daysStatus     : Reject--------------------------------------------
 Case ID    : 00972AJNVISA Typ   : J1 NewConsular   : ChengDuMajor in   : privacy protectionTime : 2019-8-9 weekday 5 to 2019-8-9 weekday 5 Length     : 0 daysStatus     : Reject--------------------------------------------
 Case ID    : guleixibianVISA Typ   : B1 NewConsular   : BeiJingMajor in   : CommunicationTime : 2019-8-13 weekday 2 to 2019-9-17 weekday 2 Length     : 35 daysStatus     : Reject****************Comment*******************8月13日check，9月10日状态更新，9月17日显示被拒。近期关系紧张，本校敏感专业大批被拒。******************End*********************--------------------------------------------
@@ -575,6 +641,7 @@ updates：
 9.12 2nd
 9.16 3rd (周末。。https://ceac.state.gov的验证码还坏了 你能信)
 9.19 4th ******************End*********************--------------------------------------------
+Case ID    : 求过求过求VISA Typ   : J1 NewConsular   : ShangHaiMajor in   : Material ScienceTime : 2019-10-7 weekday 1 to 2020-2-19 weekday 3 Length     : 135 daysStatus     : Reject****************Comment*******************无语******************End*********************--------------------------------------------
 Case ID    : visssaVISA Typ   : F1 RenewalConsular   : BeiJingMajor in   : Computer ScienceTime : 2019-10-8 weekday 2 to 2019-10-16 weekday 3 Length     : 8 daysStatus     : Reject****************Comment*******************8号面签 被check 发绿条补材料
 16号收到email rejection ******************End*********************--------------------------------------------
 Case ID    : so sadVISA Typ   : B1 NewConsular   : BeiJingMajor in   : CSTime : 2019-10-24 weekday 4 to 2019-10-24 weekday 4 Length     : 0 daysStatus     : Reject****************Comment*******************cs phd出国开会，黑人大叔只要了邀请信和个人简历，敲了好久的键盘，脸色凝重，其他材料都不看直接发白条。悲伤。******************End*********************--------------------------------------------
@@ -592,11 +659,37 @@ Case ID    : carolVISA Typ   : B1 RenewalConsular   : BeiJingMajor in   : CS
 01-22 refused
 
 不能理解为毛check了这么久还给我拒绝了******************End*********************--------------------------------------------
+Case ID    : SunnySummerVISA Typ   : F1 RenewalConsular   : BeiJingMajor in   : METime : 2019-12-12 weekday 4 to 2020-8-4 weekday 2 Length     : 236 daysStatus     : Reject****************Comment*******************Case Created:	11-Dec-2019
+First Case Updated:      12-Dec-2019
+Case 1st Updated:	22-Jan-2020
+
+Case Last Updated:	30-Jul-2020
+服了，等了这么久，拒了，连个通知都没有。还得自己查护照在哪儿。******************End*********************--------------------------------------------
+Case ID    : check半年了VISA Typ   : F1 RenewalConsular   : BeiJingMajor in   : MaterialsTime : 2019-12-19 weekday 4 to 2020-3-3 weekday 2 Length     : 75 daysStatus     : Reject****************Comment*******************1次更新(面签)，之后被拒，中介说不是被拒，还在等消息******************End*********************--------------------------------------------
+Case ID    : ssVISA Typ   : H1 NewConsular   : BeiJingMajor in   : CSTime : 2019-12-26 weekday 4 to 2020-7-29 weekday 3 Length     : 216 daysStatus     : Reject--------------------------------------------
+Case ID    : asdfasdfVISA Typ   : H1 NewConsular   : GuangZhouMajor in   : Chemical EngineeringTime : 2020-1-2 weekday 4 to 2020-4-2 weekday 4 Length     : 91 daysStatus     : Reject****************Comment*******************VO收走了CV，offer letter，job description，公司介绍，告知需要3-4周。
+01/02/2020 Case created - AP
+02/19/2020 1st update - AP
+
+撤签，前往迪拜二签，3/1面谈，3/12 1st update，3/19 2nd update，3/21 issue，3/22 拿到护照。******************End*********************--------------------------------------------
+Case ID    : YiDingGuoVISA Typ   : J1 NewConsular   : GuangZhouMajor in   : chemistryTime : 2020-1-2 weekday 4 to 2020-3-18 weekday 3 Length     : 76 daysStatus     : Reject****************Comment*******************面签approved DS2019表并返还给我，收走护照，CV, work plan, 导师CV，告知等两到三周
+Case Created:	31-Dec-2019
+Case Last Updated:	02-Jan-2020
+
+Note:
+Case Created: 31-Dec-2019 
+Case Last Updated: 02-Jan-2020 
+
+今天查了一下，Refused 
+但是Case Last Updated的时间没变。 
+
+这是所有信息。******************End*********************--------------------------------------------
 Case ID    : happyboxVISA Typ   : J1 NewConsular   : ShangHaiMajor in   : human anatomyTime : 2020-1-3 weekday 5 to 2020-3-4 weekday 3 Length     : 61 daysStatus     : Reject****************Comment*******************Case Created: 02-Jan-2020
 Case Updated: 03-Jan-2020
 Case Last Updated:06-Feb-2020
 退护照
 3月4拒******************End*********************--------------------------------------------
+Case ID    : zhangweiVISA Typ   : O1 RenewalConsular   : BeiJingMajor in   : N/ATime : 2020-1-3 weekday 5 to 2020-8-27 weekday 4 Length     : 237 daysStatus     : Reject****************Comment*******************Resubmit an emergent application******************End*********************--------------------------------------------
 Case ID    : 等HOU久了VISA Typ   : J1 RenewalConsular   : GuangZhouMajor in   : BMETime : 2020-1-3 weekday 5 to 2020-3-4 weekday 3 Length     : 61 daysStatus     : Reject****************Comment*******************Case Created: 02-Jan-2020
 Case Last Updated: 03-Jan-2020
 
@@ -607,6 +700,11 @@ Case Last Updated: 03-Jan-2020
 Case ID    : 我要阳光VISA Typ   : B2 RenewalConsular   : GuangZhouMajor in   : mechanicalTime : 2020-1-6 weekday 1 to 2020-3-4 weekday 3 Length     : 58 daysStatus     : Reject****************Comment*******************211g to complete CV+Itinerary
 2-7 last update
 3-4 refused******************End*********************--------------------------------------------
+Case ID    : 1895VISA Typ   : J1 RenewalConsular   : BeiJingMajor in   : Chemical EngineeringTime : 2020-1-6 weekday 1 to 2020-3-5 weekday 4 Length     : 59 daysStatus     : Reject****************Comment*******************Bless me******************End*********************--------------------------------------------
+Case ID    : jincaoVISA Typ   : B1 NewConsular   : BeiJingMajor in   : PhysicsTime : 2020-1-7 weekday 2 to 2020-5-30 weekday 6 Length     : 144 daysStatus     : Reject****************Comment*******************2020-1-7 面签
+2020-1-7 221(g)行政审查
+2020-5-30 refused******************End*********************--------------------------------------------
+Case ID    : TTVISA Typ   : F1 RenewalConsular   : ShangHaiMajor in   : AGTime : 2020-1-7 weekday 2 to 2021-1-23 weekday 6 Length     : 382 daysStatus     : Reject****************Comment*******************Passport returned. Case changed from AP to Refused on Feb. 10, 2020******************End*********************--------------------------------------------
 Case ID    : Aoi ShenVISA Typ   : J1 NewConsular   : ShangHaiMajor in   : microbiologyTime : 2020-1-9 weekday 4 to 2020-3-5 weekday 4 Length     : 56 daysStatus     : Reject****************Comment*******************Case Created:	    08-Jan-2020
 Case First Updated:  09-Jan-2020
 Case Second Updated: 30-Jan-2020
@@ -637,6 +735,10 @@ By the way, 和我一样暑研之后又到境外毕设的都被check了。
 Case Created: 15-Jan-2020
 Case Last Updated: 16-Jan-2020(interview)
 04-Mar-2020查到refused，但是最后更新日期没变。******************End*********************--------------------------------------------
+Case ID    : AmilyVISA Typ   : J1 RenewalConsular   : BeiJingMajor in   : PhysicsTime : 2020-1-16 weekday 4 to 2020-3-5 weekday 4 Length     : 49 daysStatus     : Reject****************Comment*******************Case Created:	15-Jan-2020
+Case Last Updated:	16-Jan-2020
+3-5查询发现状态是refused，但日期没有更新，不知道什么情况。护照状态也没查到，也没有收到邮件。******************End*********************--------------------------------------------
+Case ID    : OreoreoVISA Typ   : J1 NewConsular   : BeiJingMajor in   : METime : 2020-1-16 weekday 4 to 2020-3-4 weekday 3 Length     : 48 daysStatus     : Reject--------------------------------------------
 Case ID    : wafarinVISA Typ   : H1 NewConsular   : BeiJingMajor in   : N/ATime : 2020-1-21 weekday 2 to 2020-3-5 weekday 4 Length     : 44 daysStatus     : Reject****************Comment*******************Jan 21 interview
 Jan 22 update
 Mar 3 refsed
@@ -644,6 +746,15 @@ Mar 3 refsed
 Case ID    : ddfgtVISA Typ   : B2 NewConsular   : BeiJingMajor in   : N/ATime : 2020-1-21 weekday 2 to 2020-3-4 weekday 3 Length     : 43 daysStatus     : Reject****************Comment*******************第一次B2当面被拒，这次面试官什么都没收走、只是留下了护照，说要一周左右check
 无update，直接refused
 ******************End*********************--------------------------------------------
+Case ID    : what does refusVISA Typ   : B1 NewConsular   : BeiJingMajor in   : BiologyTime : 2020-1-21 weekday 2 to 2020-3-5 weekday 4 Length     : 44 daysStatus     : Reject****************Comment*******************1/17/2020 Case Created.
+1/21/2020 Interviewd and Case Last Updated.
+3/5/2020 Refused.
+
+No update on the case but Refused directly. Is it because the novel coronavirus?******************End*********************--------------------------------------------
 Case ID    : AA009INIVISA Typ   : H1 NewConsular   : BeiJingMajor in   : EETime : 2020-1-23 weekday 4 to 2020-3-5 weekday 4 Length     : 42 daysStatus     : Reject****************Comment*******************1/22 Case Created
 1/23 Case Updated
 VO说AP可能需要久一点时间。。。******************End*********************--------------------------------------------
+Case ID    : myh1108VISA Typ   : H1 RenewalConsular   : VancouverMajor in   : CSTime : 2020-3-2 weekday 1 to 2020-3-4 weekday 3 Length     : 2 daysStatus     : Reject--------------------------------------------
+Case ID    : huajuan2020VISA Typ   : F1 NewConsular   : BeiJingMajor in   : Public health (epidemioloTime : 2020-9-3 weekday 4 to 2020-9-3 weekday 4 Length     : 0 daysStatus     : Reject****************Comment*******************reject ******************End*********************--------------------------------------------
+Case ID    : plzlmgVISA Typ   : F1 NewConsular   : OthersMajor in   : Mechanical EngineeringTime : 2020-9-23 weekday 3 to 2020-10-2 weekday 5 Length     : 9 daysStatus     : Reject--------------------------------------------
+Case ID    : JoyVISA Typ   : J1 NewConsular   : ShangHaiMajor in   : BioimagingTime : 2020-11-5 weekday 4 to 2020-11-13 weekday 5 Length     : 8 daysStatus     : Reject--------------------------------------------
