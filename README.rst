@@ -178,34 +178,50 @@ With **Flag** set to 0 or 1, we can easily set the code in two different mode, *
     elif flag == 2:
         ApplicationFrame = pd.read_csv("./database/PandasApplicationData.csv")
 
-Some Example Output
+Example Results
 =======================
 
-The monthly long check cases (above 60 days) is using the secondary axis on the chart, Blue stands for AVG checking time for long checks of that month, red represents for longest checking time for that month. Data shows that the long check cases has dramatically increased in 2019.
+With the raw data crawled from the website, you can print/plot any information you want, here I will show some example results that I am mostly interested in.
 
-.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/longcheck.PNG
-   :scale: 25
+Figure 2. shows the monthly long check cases (above 60 days) details. Data shows that the long check cases dramatically increased in 2019.
 
-The following chart is the monthly average waiting time over the past 11 years. Data shows that the waiting time over the past few years has remains the same, slightly increased in 2019.
+.. figure:: image/longcheck.PNG
+   :align: center
+
+   Figure. 2. Long check cases (above 60 days) detail. solid blue color is the average long check time of that month, solid red color is the maximum long check time of that month, green line indicates the monthly long check cases.
+
+
+
+The chart in Figure 3. shows the monthly average waiting time over the past 11 years. Data shows that the waiting time over the past few years has remains the same, slightly increased in 2019.
    
-.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/checkAVGbymonth.PNG
-   :scale: 25
+.. figure:: image/checkAVGbymonth.PNG
+   :align: center
 
-These two pie charts shows the visa type and consulate ratios, please ignore my typo in the chart.
+   Figure. 3. Monthly average waiting time.
 
-.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularandvisatype.PNG
-   :height: 100
 
-The following table indicate that Beijing consulate is actually not worst than any of the others. There are sayings that it is easier to get a visa at a embassy of a third country,but it is not really true from the data. 
+These two pie charts in Figure 4. show the checking cases by visa type and consular locations.
 
-.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/consularrate.PNG
-   :scale: 25
+.. figure:: image/consularandvisatype.PNG
+   :align: center
 
-For those who are interested in Long checks, the following figure shows the histogram of the waiting days for long check cases (above 60 days) and all check cases. The histogram clearly shows that most cases get cleared with in 60 days. If you are unfortunate and went through the long check, there is another peak of visa approval on around 100 days. After that, the chance of being cleared dramatically reduced to almost zero. A very interesting observation is that, for those who get cleared within two weeks, the chance of getting cleared is almost the same on each of these 14 days.
+   Figure. 4. checking cases vs. visa type and consular locations
 
-.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/hist.png
-   :scale: 25
 
+The following table in Figure 5. indicates that Beijing consulate is actually not worst than any of the others. There are sayings that it is easier to get a visa at a embassy of a third country, but it is not really true from the data. 
+
+.. figure:: image/consularrate.PNG
+   :align: center
+
+   Figure. 5. Comparison between consulars at different locations.
+
+
+For those who are interested in Long checks, Figure 6. shows the histogram of the waiting days for long check cases (above 60 days) and all check cases. The histogram clearly shows that most cases get cleared with in 60 days. If you are unfortunate and went through the long check, there is another peak of visa approval on around 100 days. After that, the chance of being cleared dramatically reduced. A very interesting observation is that, for those who get cleared within two weeks, the chance of getting cleared is almost the same on each of these 14 days.
+
+.. figure:: image/hist.png
+   :align: center
+
+   Figure. 6
 Disclaimer: 
 =======================
 This is only a project for acquiring data for desperate student under administrative processing like me to review. This is not for profit, but if you need me to withdraw it from github, Please contact me @ bwang40@hawk.iit.edu. Thank you so much.
