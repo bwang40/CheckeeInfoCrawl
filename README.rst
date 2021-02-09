@@ -221,7 +221,8 @@ For those who are interested in Long checks, Figure 6. shows the histogram of th
 .. figure:: image/hist.png
    :align: center
 
-   Figure. 6
+   Figure. 6. Histogram of long check cases and all check cases.
+
 Disclaimer: 
 =======================
 This is only a project for acquiring data for desperate student under administrative processing like me to review. This is not for profit, but if you need me to withdraw it from github, Please contact me @ bwang40@hawk.iit.edu. Thank you so much.
